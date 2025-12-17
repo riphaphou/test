@@ -1,1 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">   <rect width="200" height="200" fill="white"/>   <text x="100" y="110" text-anchor="middle" font-family="Serif" font-size="120" font-weight="bold" fill="black">R</text> </svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <rect width="200" height="200" fill="white"/>
+  <text x="100" y="110" text-anchor="middle" font-family="Serif" font-size="120" font-weight="bold" fill="black">R</text>
+</svg>
